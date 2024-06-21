@@ -7,3 +7,5 @@ commit karne ke liye use "git commit" command
 ek file - "git commit filename"
 all file - "git commit ."  
 commit ke baad versions bante h , if humhe kisi or version pe jaana h toh uske liye command hai -> 
+puraane versions pe jaane ke loye uski id nikaalo using log and go to using "git checkout id" command
+difference dekhne ke loye use "git diff id1 id2"
