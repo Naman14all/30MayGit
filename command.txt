@@ -1,0 +1,8 @@
+pehle git status check karo
+firr uss file ko staging area me bhejo using git add
+if change karna ho to use git reset command
+status dekhne ke liye file ka use git status
+history dekhne ke liye use git log command
+commit karne ke liye use git commit command
+ek file - git commit filename
+all file - git commit .  
