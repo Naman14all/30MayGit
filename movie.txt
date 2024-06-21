@@ -1,0 +1,5 @@
+(a) Rise of the planet of the apes
+(b) Dawn of  the planet of the apes
+
+yeh jo file ke bagal me "U" aa raha h na , iska mtlb h file is untracked
+"A" means add ho gaya h , ab staging area me h file
