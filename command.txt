@@ -9,3 +9,8 @@ all file - "git commit ."
 commit ke baad versions bante h , if humhe kisi or version pe jaana h toh uske liye command hai -> 
 puraane versions pe jaane ke loye uski id nikaalo using log and go to using "git checkout id" command
 difference dekhne ke loye use "git diff id1 id2"
+branching:
+(1)first step me branch banao and second step me uspe shift ho jao 
+    commands: (a) git branch name ; (b) git checkout name
+(2)ek hi step me dono kaam ho jayenge
+    command: git checkout -b name     
