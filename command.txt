@@ -14,3 +14,6 @@ branching:
     commands: (a) git branch name ; (b) git checkout name
 (2)ek hi step me dono kaam ho jayenge
     command: git checkout -b name     
+Merging two branches:
+    command : "git merge branch_name"
+    this command should only be executed when we are already in the required branch using "git checkout branch_name"  command
